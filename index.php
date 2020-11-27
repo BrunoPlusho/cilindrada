@@ -9,7 +9,7 @@
     </head>
     <form action="calculadora.php">            
 
-        <h1>Calcular cilindrada</h1>
+        <h1>Calcular Cilindrada</h1>
         <input type="number" name="diametrodelcilindro" placeholder="Diametro cilindro(MM)"/>
 
         <br>
